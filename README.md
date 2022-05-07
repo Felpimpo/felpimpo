@@ -4,8 +4,8 @@
 - 😄 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/felpimpo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=felpimpo&show_icons=true&theme=maroongold "/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpimpo&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=felpimpo&show_icons=true&theme=maroongold "/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpimpo&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Felpimpo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
