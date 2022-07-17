@@ -1,4 +1,4 @@
-## Oiii eu sou a Felpimpo, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou a Felpimpo, universitario de Analise e Desenvolvimento de Sistemas!
 - 📚 Estudando A.D.S
 - 📩 felipessles32@gmail.com
 - 😄 Pronomes: ele/dele
