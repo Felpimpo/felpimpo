@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Sales</h1>
 <h3 align="center">I am a university student of Systems Development Analysis</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felpimpo&label=Profile%20views&color=0e75b6&style=flat" alt="felpimpo" /> </p>
 
 - 📫 Connect **felipessles35@icloud.com**
