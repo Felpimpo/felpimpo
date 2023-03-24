@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Sales</h1>
 <h3 align="center">I am a university student of Systems Development Analysis</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif">
+<div class="tenor-gif-embed" data-postid="20974291" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/eren-eren-yeager-eren-jeager-eren-season4-eren-season4episode16-gif-20974291">Eren Eren Yeager GIF</a>from <a href="https://tenor.com/search/eren-gifs">Eren GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felpimpo&label=Profile%20views&color=0e75b6&style=flat" alt="felpimpo" /> </p>
 
